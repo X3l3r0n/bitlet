@@ -17,3 +17,4 @@ You can review this [annotated example](https://github.com/bitletorg/bitlet/wiki
 
 ## License
 BitLet is distributed under the Apache license. See `src/main/resources/license.txt` for the full license terms.
+[![Run on Repl.it](https://repl.it/badge/github/bitletorg/bitlet)](https://repl.it/github/bitletorg/bitlet)
